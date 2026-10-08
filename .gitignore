@@ -11,3 +11,7 @@ __pycache__/
 
 # ログ
 *.log
+
+# 出力ファイル
+output/
+logs/
