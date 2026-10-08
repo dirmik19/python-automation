@@ -1,0 +1,13 @@
+# 仮想環境
+.venv/
+venv/
+
+# Python 生成物
+__pycache__/
+*.py[cod]
+
+# 機密情報
+.env
+
+# ログ
+*.log
